@@ -1,0 +1,16 @@
+in windows:
+
+pip install opencv-python
+
+pip install mediapipe
+
+pip install paho-mqtt
+------------------------------------
+in raspberry pi:
+
+sudo pip install paho-mqtt
+
+sudo apt-get install -y mosquitto mosquitto-clients
+
+sudo systemctl enable mosquitto
+
