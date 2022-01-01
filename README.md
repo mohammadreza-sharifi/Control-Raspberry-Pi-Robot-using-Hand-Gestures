@@ -6,7 +6,7 @@
 - L298 Motor Driver
 - Gearbox DC Motor*4
 - Robot chassis
-- Some jumper wire
+- jumper wire
 
 ## first you need to install this libraries:
 ### in Windows:
