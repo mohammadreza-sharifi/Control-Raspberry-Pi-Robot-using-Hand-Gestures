@@ -1,6 +1,6 @@
 # Control-Raspberry-Pi-Robot-using-Hand-Gestures
 ## you can see all details about this project in my youtube channel:
-https://www.youtube.com/watch?v=pJess8GuY1A&t=8s
+[video in my Youtube channel](https://www.youtube.com/watch?v=pJess8GuY1A&t=8s).
 ## The parts used in this projects are:
 - Raspberry Pi 3 B+
 - L298 Motor Driver
