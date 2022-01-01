@@ -8,7 +8,7 @@ The parts used in this projects are:
 -Robot chassis
 -Some jumper wire
 
-##first you need to install this libraries:
+first you need to install this libraries:
 in Windows:
 
 pip install opencv-python
