@@ -10,18 +10,20 @@ https://www.youtube.com/watch?v=pJess8GuY1A&t=8s
 
 ## first you need to install this libraries:
 ### in Windows:
-
+~~~
 pip install opencv-python
 
 pip install mediapipe
 
 pip install paho-mqtt
-
+~~~
 ### in Raspberry Pi:
-
+~~~
 sudo pip install paho-mqtt
 
 sudo apt-get install -y mosquitto mosquitto-clients
-
+~~~
 and run this command:
+~~~
 sudo systemctl enable mosquitto
+~~~
