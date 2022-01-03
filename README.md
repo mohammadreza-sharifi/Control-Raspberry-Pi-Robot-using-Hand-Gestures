@@ -4,7 +4,7 @@
 ## Demo
 ![demo](https://user-images.githubusercontent.com/41531929/147872944-4f840c8c-4e98-4800-9321-3363c96b277f.gif)
 
-## The parts used in this projects are:
+## The parts used in this project are:
 - Raspberry Pi 3 B+
 - L298 Motor Driver
 - Gearbox DC Motor*4
